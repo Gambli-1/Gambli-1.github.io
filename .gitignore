@@ -1,0 +1,6 @@
+# Build-Ordner ausschließen
+bin/
+obj/
+
+# Visual Studio-spezifische Dateien
+.vs/
